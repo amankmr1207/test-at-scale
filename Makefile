@@ -24,3 +24,4 @@ build-synapse-image:		## Builds synapse docker image
 
 build-synapse-bin:			## Builds synapse binary
 	bash build/synapse/build.sh
+ss
